@@ -1,8 +1,24 @@
-# Miniproject
+## Fashion Products Classifier using Visual Recognition
+The Project uses IBM Cloud.
 
-# Fashion Products Classifier using Visual Recognition
-The Project uses IBM Watson Studio and Node-red Service.
 Flask is used for developing the frontend of the application.
 
-Node-Red Link:
-https://node-red-visual-recognition-2020-12-22.eu-gb.mybluemix.net/ui/
+The Application classifies different fashion products using custom model built using IBM Watson. 
+
+# How To Run VisRec.exe
+It is necessary to exclude from check from all PC using that program by the following procedure.
+Add an exclusion to Windows Security ->
+
+Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection.
+
+Under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.
+
+Select Add an exclusion, and then select from files, folders, file types, or process. The exclusion will apply to subfolders within a folder as well.
+
+Exclude the folder where you want to keep the Exe file and then copy the Exe file to that folder and install it.
+
+After installation , Run the VisRec.exe application.
+
+👍😉
+
+

@@ -6,7 +6,7 @@ Flask is used for developing the frontend of the application.
 The Application classifies different fashion products using custom model built using IBM Watson. 
 
 # How To Run VisRec.exe
-It is necessary to exclude from check from all PC using that program by the following procedure.
+It is necessary to run the program by the following procedure.
 Add an exclusion to Windows Security ->
 
 Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection.
